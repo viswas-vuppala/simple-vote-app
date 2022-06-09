@@ -1,6 +1,6 @@
 import uuid
 
-from ddd_votes.vote import Vote
+from ddd_votes.domain.vote import Vote
 
 def test_vote_existing_vote_id():
     vote_id = str(uuid.uuid4())

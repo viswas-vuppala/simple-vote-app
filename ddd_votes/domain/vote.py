@@ -4,7 +4,7 @@ import uuid
 
 if TYPE_CHECKING:
     #Preventing the circular import problem
-    from ddd_votes.vote_repository import VoteRepository
+    from ddd_votes.domain.vote_repository import VoteRepository
 
 @dataclass
 class Vote:
