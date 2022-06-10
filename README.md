@@ -5,7 +5,7 @@ The purpose of this project was to create a simple application that creates uniq
 1. clone this repository on your computer
 2. create a new virtual enviornement by using 'poetry shell'
 3. Once you're in the virtual env, install packages with 'poetry install'
-4. to run the app type in 'uvicorn ddd_votes.main:app --reload' in the command line
+4. to run the app type in `uvicorn ddd_votes.main:app --reload` in the command line
 5. Click on the link and eidt the url to be "http://....../docs"
 
 ## Ports and Adapters
