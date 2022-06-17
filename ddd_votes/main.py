@@ -1,8 +1,9 @@
-from typing import List
 from ddd_votes.adapter.inmemory_vote_repository import InMemoryVoteRepository
 from ddd_votes.domain.vote import Vote
-from fastapi import FastAPI
 
+"""
+This is to create quick rest interface using FastAPI
+"""
 app = FastAPI()
 
 vote_repository = InMemoryVoteRepository()

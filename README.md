@@ -1,5 +1,7 @@
 # Simple Voting Project
 The purpose of this project was to create a simple application that creates unique votes and stores them in a repository. 
+This project is based off the following medium article https://medium.com/@douwevandermeij/hexagonal-architecture-in-python-7468c2606b63
+
 
 ## Set Up Instructions
 1. clone this repository on your computer
